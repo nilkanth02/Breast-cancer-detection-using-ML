@@ -1,7 +1,7 @@
 
 # Breast Cancer Detection using Machine Learning
 
-Welcome to the Breast Cancer Detection project! This application leverages advanced machine learning techniques to accurately predict whether a tumor is malignant or benign based on biopsy data. By using this tool, you can assist in the early detection of breast cancer, enhancing patient care and outcomes.
+Welcome to the Breast Cancer Detection project! This application leverages advanced machine learning techniques to accurately predict whether a tumor is **malignant** or **benign** based on **biopsy data**. By using this tool, you can assist in the **early detection** of breast cancer, enhancing patient care and outcomes.
 
 ---
 
@@ -45,7 +45,7 @@ Run the Streamlit app locally with the following command:
 streamlit run app.py
 ```
 
-Open your browser and navigate to `http://localhost` to interact with the application. Input the tumor features in the provided fields and click on **"Predict Cancer"** to see the results.
+Open your browser and navigate to `http://localhost` to interact with the application. Input the tumor features in the provided fields and click on **"Predict "** to see the results.
 
 ---
 
@@ -106,5 +106,12 @@ This application uses the following 30 features for accurate predictions:
 
 We welcome contributions! If you'd like to improve this project or have suggestions, please feel free to submit a pull request or open an issue. Let's make healthcare better together!
 
+
+## Contact
+
+For any questions or feedback, you can reach out to:
+
+- **Nilkanth D. Ahire** - [nilkanth8747@gmail.com](mailto:nilkanth8747@gmail.com)
+- **GitHub Profile** - [nilkanth02](https://github.com/nilkanth02)
 
 Thank you for checking out this project! Together, we can contribute to better breast cancer detection and awareness.
